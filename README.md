@@ -1,1 +1,1 @@
-# CPCS324-Project (Phase 1)
+# CPCS324-Project (Phase 1 & 2)
